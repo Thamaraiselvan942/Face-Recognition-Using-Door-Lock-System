@@ -13,7 +13,7 @@
 <h1>REQUIRED COMPONENT</h1>
 1.ARDUINO UNO
 
-![Logo]()
+![Logo](https://github.com/Thamaraiselvan942/Face-Recognition-Using-Door-Lock-System/blob/main/Components%20used/1.jpeg)
 
 2.SERVO MOTOR
 
