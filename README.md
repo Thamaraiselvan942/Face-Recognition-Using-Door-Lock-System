@@ -1,4 +1,4 @@
-# Face-Recognition-Using-Door-Lock-System
+# Automatic-Door-Lock-System-Using-Face-Recognition
 
 * The project has been made to make door more protective.
 
